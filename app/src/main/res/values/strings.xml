@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">myshop</string>
+    <string name="home">Главная</string>
+    <string name="cart">Корзина</string>
+    <string name="to_product_list_screen">Перейти —> Список товаров</string>
+    <string name="product_detail">Экран описания товара</string>
+    <string name="to_product_detail_screen">Перейти —> Экран описания товара</string>
+    <string name="product_list">Экран списка товаров</string>
+    <string name="to_back">Назад</string>
+    <string name="add_to_cart">Добавить в корзину</string>
+    <string name="categories">Категории</string>
+    <string name="recommended">Рекомендации</string>
+    <string name="new_arrivals">Новые поступления</string>
+    <string name="go_to_cart">В корзину</string>
+    <string name="continue_shopping">Продолжить покупки</string>
+    <string name="title_detail_alert">Поздравляем!</string>
+    <string name="text_detail_alert">Товар добавлен в крозину</string>
+    <string name="checkout">Оплатить</string>
+    <string name="pay_order">Оплата заказа $ %1$s</string>
+    <string name="continue_order">Продолжить оформление</string>
+</resources>
